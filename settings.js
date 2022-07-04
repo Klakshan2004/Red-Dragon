@@ -19,40 +19,40 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is Devil Bot🐬
+My Creator is Kavindu Lakshan🌹` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+94781516414'] //Owner number in aive msg
 global.premium = ['+94781516414'] //Owner Number info
 global.ownernomer = '+94781516414' //Owner Number <<<
 
-global.ownername = 'K.Lakshan' //Owner Name
-global.botname = '👿Flash Bot😈' //Bot Name
+global.ownername = 'Lakshan' //Owner Name
+global.botname = 'Devil Bot' //Bot Name
 
-global.button = 'Touch Here📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'GoHomeGota📌' //Change Your Button's URL
+global.button = 'Touch Here...❓' //Costomize A Button Name In Alive Message
+global.btnurl = 'Let's save our country.#GoHomeGota' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬ᴷᴸ𝙵𝙻𝙰𝚂𝙷 𝙱𝙾𝚃 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻࿐' //Bot Pacage Name
-global.author = '👿Flash Bot😈❯❯' //Author Name
+global.packname = '🦈Bot Devil🐬࿐' //Bot Pacage Name
+global.author = '💠Devil Botᴷᴸ💠❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
-global.footer = '©Bot Devil🐬' //In list menu
+global.footer = '©Bot Devil Official🐬' //In list menu
 global.chatbotpre = true  // Chat bot true/false
 
 
-global.ig = 'https://youtube.com/channel/UCj3NDCWSrm4AC_YyHo1OWBA' //🥀YouTube🌱!
+global.ig = 'https://youtube.com/channel/UCj3NDCWSrm4AC_YyHo1OWBA' //🩸YouTube🩸!
 
 global.mess = { // Error Mesages
     success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
+    admin: 'Only Admins can use it!🦡',
     botAdmin: 'Bot wants to be an Admin😥',
     owner: 'Only Owner can use this!😉',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot😝',
+    bot: 'This Feature Is Only For Bot🌻',
     wait: '🐬Pleas Wait...🌹',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
