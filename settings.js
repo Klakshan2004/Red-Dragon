@@ -19,15 +19,15 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is Devil Bot🐬
+global.alivemsg = `My name is Flash Bot🐬
 My Creator is Kavindu Lakshan🌹` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94781516414'] //Owner number in aive msg
-global.premium = ['+94781516414'] //Owner Number info
-global.ownernomer = '+94781516414' //Owner Number <<<
+global.owner = ['+94721121464'] //Owner number in aive msg
+global.premium = ['+947211214644'] //Owner Number info
+global.ownernomer = '+94721121464' //Owner Number <<<
 
 global.ownername = 'Lakshan' //Owner Name
-global.botname = 'Devil Bot' //Bot Name
+global.botname = 'Flash Bot' //Bot Name
 
 global.button = 'Touch Here...❓' //Costomize A Button Name In Alive Message
 global.btnurl = 'Let's save our country.#GoHomeGota' //Change Your Button's URL
@@ -35,11 +35,11 @@ global.btnurl = 'Let's save our country.#GoHomeGota' //Change Your Button's URL
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '🦈Bot Devil🐬࿐' //Bot Pacage Name
-global.author = '💠Devil Botᴷᴸ💠❯❯' //Author Name
+global.author = '💠Flash Botᴷᴸ💠❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
-global.footer = '©Bot Devil Official🐬' //In list menu
+global.footer = '©Bot Flash Official🐬' //In list menu
 global.chatbotpre = true  // Chat bot true/false
 
 
